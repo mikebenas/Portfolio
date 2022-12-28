@@ -13,8 +13,8 @@ Mike Benas Projects
   # Projects
   -----------------
   ## Turtle Games (in Python & R):
-    •		An online games retailer with global presence demanding improvement of sales performance
-    •	  Explorataion of datasets provided to answer business questions via EDA and predictive analysis
+    •		An online games retailer with global presence demanding improvement of sales performance</br>
+    •	  Explorataion of datasets provided to answer business questions via EDA and predictive analysis</br>
     
   ## Skills Demonstrated in this project
   * Making predictions with regression,k-means clustering (knowledge of building ML models)
