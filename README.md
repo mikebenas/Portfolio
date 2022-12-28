@@ -13,15 +13,13 @@ Mike Benas Projects
   # Projects
   -----------------
   ## Turtle Games (in Python & R):
-    •		Making predictions with regression,k-means clustering</br>
-    •	  Analysing customer sentiments with reviews (NLP)</br>
-    •	  Visualising data to gather insights.</br>
-    •	  Performing EDA techniques to clean and manipulate the data in order to determine reliability (e.g. normal distribution, skewness, or kurtosis)</br>
+    •		An online games retailer with global presence demanding improvement of sales performance
+    •	  Explorataion of datasets provided to answer business questions via EDA and predictive analysis
     
-  ## Demonstrating
-  * Ability in Data Wrangling/Aggregation
-  * Data scraping from the web 
-  * Proficiency in building ML models
+  ## Skills Demonstrated in this project
+  * Making predictions with regression,k-means clustering (knowledge of building ML models)
+  * Performing EDA techniques to clean and manipulate the data in order to determine reliability (e.g. normal distribution, skewness, or kurtosis)
+  * Analysing customer sentiments (NLP) with Data scraped from the web 
   * Ability to interpret and present results
   * Knowledge of visualization best practices
 
