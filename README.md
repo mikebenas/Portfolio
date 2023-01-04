@@ -24,8 +24,8 @@ Mike Benas Projects
   * Knowledge of visualization best practices
 
  ## NHS (in Python):
-    •		Working with real-world data to address a problem with ongoing missing appointments faced by the NHS</br>
-    •	  Explorataion of datasets provided to answer business questions via EDA and predictive analysis</br>
+   •		Working with real-world data to address a problem with ongoing missing appointments faced by the NHS</br>
+   •	  Explorataion of datasets provided to answer business questions via EDA and predictive analysis</br>
     
   ## Skills Demonstrated in this project
   * utilise Python to explore the available data, create visualisations to identify trends, and extract meaningful insights to inform decision-making
